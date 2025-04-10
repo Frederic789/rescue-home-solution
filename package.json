@@ -1,7 +1,6 @@
 {
   "name": "rescuehomesolutions",
   "homepage": "https://frederic789.github.io/rescue-home-solution",
-
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,8 +19,8 @@
   "build": "react-scripts build",
   "test": "react-scripts test",
   "eject": "react-scripts eject",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
+  "deploy": "gh-pages -d build",
+  "predeploy": "npm run build"
 },
 
 
