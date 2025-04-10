@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rescue-home-solution/static/css/main.b6740265.css",
+    "main.js": "/rescue-home-solution/static/js/main.a19098a7.js",
+    "static/js/453.55346980.chunk.js": "/rescue-home-solution/static/js/453.55346980.chunk.js",
+    "index.html": "/rescue-home-solution/index.html",
+    "main.b6740265.css.map": "/rescue-home-solution/static/css/main.b6740265.css.map",
+    "main.a19098a7.js.map": "/rescue-home-solution/static/js/main.a19098a7.js.map",
+    "453.55346980.chunk.js.map": "/rescue-home-solution/static/js/453.55346980.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6740265.css",
+    "static/js/main.a19098a7.js"
+  ]
+}
