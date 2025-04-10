@@ -1,0 +1,29 @@
+#hero {
+    background-color: #4CAF50; /* Green background */
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.hero-content {
+    max-width: 800px;
+    margin: auto;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.cta-button {
+    background-color: #FF69B4; /* 🎨 Hot Pink */
+    color: white;
+    padding: 15px 30px;
+    border-radius: 5px;
+    margin-top: 15px;
+    transition: background 0.3s;
+}
+
+/* Hover Effect (Optional) */
+.cta-button:hover {
+    background-color: #FF69B4; /* 🎨 Darker Pink when hovered */
+}
+
