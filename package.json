@@ -1,5 +1,7 @@
 {
   "name": "rescuehomesolutions",
+  "homepage": "https://frederic789.github.io/rescue-home-solution",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
